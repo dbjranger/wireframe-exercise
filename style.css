@@ -59,6 +59,10 @@ ul#navItems {
  
 }
 
+p#callToAction:hover {
+  background-color: yellow;
+}
+
 #callToAction {
   border-radius: 15px;
   background: #3768f0;
@@ -67,6 +71,7 @@ ul#navItems {
   height: 15px;
   text-align: center;
   position: relative;
-
 }
+
+
 
