@@ -1,0 +1,72 @@
+#Navigation {
+  background-color: grey;
+  margin-bottom: 30px;
+}
+
+#logo {
+  margin-top: 0px;
+  margin-left: 4px;
+}
+
+#navItems {
+  width: 700px;
+  display: inline-block;
+  padding-bottom: 15px;
+  background-color: lightcoral;
+  vertical-align: top;
+}
+
+ul#navItems {
+  text-align: left;
+  align-items: stretch;
+}
+
+#navItems li {
+  display: inline-block;
+  margin-left: 75px;
+}
+
+#heroImage {
+  margin-bottom: 30px;
+}
+
+#subBannerElements {
+  display: inline-block;
+};
+
+#subBanner1 {
+  
+}
+
+#subBanner2 {
+  margin-left: 30px;
+}
+
+#subBanner3 {
+  margin-left: 30px;
+}
+
+#featuredSectionBanner {
+  margin-top: 30px;
+  margin-right: 30px;
+}
+
+#titleAndParagraph {
+  width: 459px;
+  display: inline;
+  position: absolute;
+  padding-top: 15px;
+ 
+}
+
+#callToAction {
+  border-radius: 15px;
+  background: #3768f0;
+  padding: 20px;
+  width: 200px;
+  height: 15px;
+  text-align: center;
+  position: relative;
+
+}
+
